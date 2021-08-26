@@ -4,7 +4,7 @@
 This repository contains Jupyter Notebooks used by Dr. Sid Nadendla, while teaching his Game Theory for Computing course at Missouri S&T. 
 
 ### T0: Introduction
-* Prerequisites
+* [Prerequisites](./T0_Prerequisites.ipynb)
 
 ### T1: Decision Theory
 * St. Petersberg Paradox
